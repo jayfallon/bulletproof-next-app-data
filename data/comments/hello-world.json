@@ -14,5 +14,13 @@
     "content": "2This is it",
     "createdAt": 1601671084213,
     "id": "6DBq01x-nFH2jRRAS9bwhgJM5VRZp5"
+  },
+  {
+    "userId": "user-id",
+    "name": "The User",
+    "avatar": "https://api.adorable.io/avatars/255/the-user@email.png",
+    "content": "3This is it",
+    "createdAt": 1601671097156,
+    "id": "6mYLZo2Al-u5rUNw0ORZGUrmhH0Iuj"
   }
 ]
